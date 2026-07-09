@@ -1,6 +1,3 @@
-# Light-novel-AI-translator
-Đây là dự án do tôi vibecode để dịch lightnovel ở định dạng pdf, bất kể ngôn ngữ sang Tiếng Việt.
-
 Đây là app dịch truyện được tôi (Harith-chan) vibecode bằng Gemini. Nhấn mạnh là tôi không biết một cái gì về code, chỉ là 1 thằng rảnh rỗi vừa thi THPTQG xong, rảnh rỗi và ngại đọc tiếng anh.
 . Tôi cũng không biết cách viết cái README này thế nào, đại đại thôi.
 . Hệ điều hành tôi sử dụng là ArchLinux nên tôi sẽ viết hướng dẫn cho Arch nói riêng, theo cách mà tôi đã sử dụng nó thành công.
