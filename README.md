@@ -12,7 +12,7 @@ HDSD:
 * Đó là những cái cơ bản, cái chính ở đây là bạn phải chọn cho mình một nhà cung cấp AI, 2 file FAST và SLOW trong bài của tôi là dùng nền tảng Groq. (console.groq.com)
 * 
 - Tạo tài khoản, tạo cho mình một cái API Key và thêm nó vào trong file .py trong thư mục mà bạn đã clone.(Thêm vào đoạn này nè 
-##if __name__ == "__main__":
+## if __name__ == "__main__":
 ##    API_KEY = "ĐIỀN_KEY_GSK_CỦA_BẠN_VÀO_ĐÂY" 
 ##    INPUT_FILE = "truyen_goc.pdf"
 ##    OUTPUT_FILE = "truyen_da_dich.pdf"
