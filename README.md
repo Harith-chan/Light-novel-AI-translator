@@ -7,7 +7,9 @@ HDSD:
 - cd trong thư mục mà bạn đã clone
 - python -m venv venv
 - source venv/bin/activate
+- pip install PyMuPDF requests
 - Đổi tên file truyện gốc thành truyen_goc.pdf
+  
 
 * Đó là những cái cơ bản, cái chính ở đây là bạn phải chọn cho mình một nhà cung cấp AI, 2 file FAST và SLOW trong bài của tôi là dùng nền tảng Groq. (console.groq.com)
 * 
